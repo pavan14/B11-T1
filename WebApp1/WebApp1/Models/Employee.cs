@@ -11,6 +11,7 @@ namespace WebApp1.Models
         public string Name { get; set; }
         public string Position { get; set; }
         public int Salary { get; set; }
+        public string Address { get; set; }
     }
     }
 }
